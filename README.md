@@ -2,4 +2,4 @@
 
 # Signal Tracker Bot
 
-A Telegram bot that tracks crypto arbitrage opportunities in real-time.
+A Telegram bot that tracks crypto arbitrage opportunities in real-time
